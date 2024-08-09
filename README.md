@@ -47,4 +47,3 @@ For questions or issues, please contact `saadbagwan447@gmail.com`
 - **Run the Docker Container**: Instructions to start the container and map the ports.
 - **Pulling a Pre-built Docker Image**: How to pull and run an existing Docker image if it's hosted on Docker Hub.
 - **API Endpoints**: Example endpoints for interacting with the FastAPI application.
-- **Stopping the Container**: How to stop the container when done.
