@@ -10,8 +10,8 @@ This API analyzes Python and JavaScript functions using the Llama3 model.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/ninja03jod/Function_Analyzer
+cd Function_Analyzer
 ```
 
 ### 2. Build the Docker Image
